@@ -1,2 +1,2 @@
 class Coche :
-    pass
+    nombre = "libertad avanza"
