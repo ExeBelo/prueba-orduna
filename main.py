@@ -1,3 +1,3 @@
 class Coche :
-    nombre = ""
+    nombre = "Monolon"
 
