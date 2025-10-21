@@ -1,4 +1,3 @@
 class Coche :
-    pass
+    nombre = ""
 
-print("Soy malardo en el conter. - Isaac")
